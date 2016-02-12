@@ -1,0 +1,1 @@
+terraform plan -var region=us-west-2 -var-file="secret.tfvars"
